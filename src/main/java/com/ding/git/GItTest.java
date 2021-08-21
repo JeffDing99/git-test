@@ -1,8 +1,6 @@
-package com.atguigu.git;
+package com.ding.git;
 
-/**
- * @author layne
- */
+
 public class GItTest {
     public static void main(String[] args) {
         System.out.println("hello git!");
