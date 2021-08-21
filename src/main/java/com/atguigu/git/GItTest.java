@@ -8,7 +8,7 @@ public class GItTest {
         System.out.println("hello git!");
         System.out.println("git2222");
         System.out.println("git333");
-        System.out.println("hot-fix");
+        System.out.println("master test");
         System.out.println("git4");
     }
 }
