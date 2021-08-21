@@ -11,5 +11,7 @@ public class GItTest {
         System.out.println("master test");
         System.out.println("hot-fix改改");
         System.out.println("git4");
+        System.out.println("push test");
+
     }
 }
